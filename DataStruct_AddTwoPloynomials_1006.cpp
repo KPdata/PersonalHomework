@@ -5,7 +5,11 @@
 #include <string>
 
 using namespace std;
-
+/*
+Q:
+Write a function to add two polynomials. Don't destroy the input. Use a linked list implementation.
+if the polynomials have M and N terms respectively, what is the time complexity of your program?
+*/
 typedef struct Pfunction
 {
     double An;//ÏµÊý
